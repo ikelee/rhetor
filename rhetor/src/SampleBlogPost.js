@@ -47,7 +47,7 @@ const Gif = styled.img`
     top: 320px;
 `
 
-var paragraph = "One may criticize the Falcon Heavy rocket for having a short launch manifest, as it has only two confirmed flights in the next year or so. There just aren't that many commercial customers right now for the heavier-lift rocket when a cheaper Falcon 9 or another medium-lift class of booster will suffice. But when one considers the more extreme cases—such as big Department of Defense missions to geostationary orbit or potential human exploration plans—the Falcon Heavy shines. Now that SpaceX's new rocket is finally flying, we can directly compare costs between this new booster and an existing rocket in its class, the Delta IV Heavy, as well as NASA's upcoming heavy lift booster, the Space Launch System. And upon direct comparison, the cost disparities are sobering, proving that commercial development of large rockets likely represents the future of the industry."
+var paragraph = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lobortis est eget pretium consequat. Donec tempus quis enim et ultrices. Donec eu porta quam. Sed felis diam, dignissim a lorem non, vulputate efficitur nisl. Praesent metus metus, aliquam ac rutrum et, porta vel leo. Fusce sed magna diam. Ut congue et nulla sit amet interdum. Donec in pharetra diam. Quisque dui augue, posuere sit amet dui at, volutpat pretium turpis. Duis in nibh id libero rutrum mattis. Duis odio erat, tempor vel pharetra sed, sodales malesuada augue. Mauris imperdiet dui efficitur turpis sagittis mattis. Aenean ornare varius justo, id dictum mi ornare non. Praesent iaculis dui ac magna condimentum congue. Donec sollicitudin mauris eu justo finibus, in molestie tortor efficitur."
 
 export default () => (
     <div>
